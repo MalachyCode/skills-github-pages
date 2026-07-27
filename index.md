@@ -4,6 +4,8 @@ title: Welcome to my blog!
 # Great Things to Come
 #### First Things First
 
+[First-post](_posts/2026-07-27-First-Post.md)
+
 - [ ] Read through my thoughts
 - [ ] Comment
 - [ ] Like
